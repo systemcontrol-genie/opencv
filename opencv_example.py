@@ -1,7 +1,7 @@
 import cv2
 
-img_rgb = cv2.imread("C:/Users/user/Desktop/OIP.jpg", cv2.IMREAD_COLOR)
-img_gray = cv2.imread("C:/Users/user/Desktop/OIP.jpg", cv2.IMREAD_GRAYSCALE)
+img_rgb = cv2.imread("C:/Users/user/Desktop/OIP.jpg", cv2.IMREAD_COLOR) #color 로 이미지 출력
+img_gray = cv2.imread("C:/Users/user/Desktop/OIP.jpg", cv2.IMREAD_GRAYSCALE) # gray이미지로 출력위해서 
 #img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_RGB2GRAY)
 img_alpa = cv2.imread("C:/Users/user/Desktop/OIP.jpg", cv2.IMREAD_UNCHANGED)
 
