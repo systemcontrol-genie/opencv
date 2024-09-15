@@ -1,0 +1,3 @@
+/home/lim/opencvtest/CMakeFiles/opencvtest.dir
+/home/lim/opencvtest/CMakeFiles/edit_cache.dir
+/home/lim/opencvtest/CMakeFiles/rebuild_cache.dir
